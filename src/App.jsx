@@ -47,7 +47,7 @@ function App() {
     <div className="w-screen h-screen flex items-center justify-center bg-gray-700 px-4">
       <div className="w-full max-w-3xl mx-auto shadow-lg rounded-2xl px-10 py-10 text-amber-600 bg-gray-500">
         <h1 className="text-4xl font-extrabold text-center mb-8 whitespace-nowrap">
-          Password Generator
+          Password Generator <br />By Aditya
         </h1>
 
         <div className="flex flex-col mb-6 space-y-2">
